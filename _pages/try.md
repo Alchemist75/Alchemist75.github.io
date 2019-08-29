@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /try/
 title: "Zhen Fan"
 author_profile: true
 redirect_from: 
