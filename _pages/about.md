@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-####Hello！
+Hello！
+======
 
 I'm Zhen Fan, a first-year master student at Language Technologies Institute, Carnegie Mellon University. Currently I'm working with Professor Jamie Callan on the Boeing Project. My past and current research mainly focus on Information Retrieval and deep learning.
 
