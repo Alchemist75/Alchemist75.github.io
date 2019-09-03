@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zhen Fan"
-  avatar           : "images/500x300.png"
-  bio              : "Come On"
+  avatar           : "images/Zhen_frontpage.jpg"
+  bio              : "Language Technologies Institute, Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "zhenfan@cs.cmu.edu"
+  email            : "zhenfan@andrew.cmu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -209,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,23 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
