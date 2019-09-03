@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhen Fan"
 title_separator          : "-"
-name                     : &name "Zhen Fan"
+name                     : &name "Home Page"
 description              : &description "personal description"
 url                      : https://Alchemist75.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
