@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhen Fan"
+title                    : "AAAAAAAAA"
 title_separator          : "-"
-name                     : &name "Home Page"
+name                     : &name "BBBBBBBBBB"
 description              : &description "personal description"
 url                      : https://Alchemist75.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "images/Zhen_frontpage.jpg" 
+og_image                 :  "images/ZhenFan.jpg" 
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
