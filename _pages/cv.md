@@ -19,13 +19,11 @@ Experience
 ======
 * Summer 2018: Summer Intern
   * Engineering Diagram Search Project
-  * Language Technologies Institute, Carnegie Mellon University
-  * Pittsburgh, US
+  * Language Technologies Institute, Carnegie Mellon University, Pittsburgh, US
   * Advisor: Prof. Jamie Callan
 
 * Summer 2017: Exchange Program
-  * National Tsinghua University
-  * Tsinchu, Taiwan, China
+  * National Tsinghua University, Tsinchu, Taiwan, China
 
 Research Interests
 ======
@@ -33,11 +31,8 @@ Research Interests
 
 Publications
 ======
-* Z. Dai*, Z. Fan* , H. R. Mohammad, and J. Callan. Local matching networks for engi-
-neering diagram search. In Proceedings of The Web Conference 2019.
-* Zheng Y*, Fan Z* , Liu Y, et al. Sogou-QCL: A New Dataset with Click Relevance La-
-bel[C]//The 41st International ACM SIGIR Conference on Research & Development in Information Re-
-trieval. ACM, 2018: 1117-1120.
+* Z. Dai*, Z. Fan* , H. R. Mohammad, and J. Callan. Local matching networks for engineering diagram search. In Proceedings of The Web Conference 2019.
+* Zheng Y*, Fan Z* , Liu Y, et al. Sogou-QCL: A New Dataset with Click Relevance Label[C]//The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval. ACM, 2018: 1117-1120.
 
 
 Extracurricular Activities
