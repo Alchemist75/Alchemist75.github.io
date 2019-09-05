@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering, Tsinghua University, 2015-2019
+  * GPA: 3.72/4.0
+* MS in Language Technologies, Carnegie Mellon University, 2019-2021(expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Summer Intern
+  * Engineering Diagram Search Project
+  * Language Technologies Institute, Carnegie Mellon University
+  * Pittsburgh, US
+  * Advisor: Prof. Jamie Callan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2017: Exchange Program
+  * National Tsinghua University
+  * Tsinchu, Taiwan, China
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Neural IR, data mining, machine reading & comprehension, machine translation, etc.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Z. Dai*, Z. Fan* , H. R. Mohammad, and J. Callan. Local matching networks for engi-
+neering diagram search. In Proceedings of The Web Conference 2019.
+* Zheng Y*, Fan Z* , Liu Y, et al. Sogou-QCL: A New Dataset with Click Relevance La-
+bel[C]//The 41st International ACM SIGIR Conference on Research & Development in Information Re-
+trieval. ACM, 2018: 1117-1120.
+
+
+Extracurricular Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* President of Student Union, Dept. of Computer Science, June 2018-May 2019
+* Student speaker at 60th Anniversary of Dept. of Computer Science, Sept. 16, 2018
+
