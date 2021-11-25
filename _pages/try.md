@@ -1,6 +1,6 @@
 ---
 title: "Try"
-permalink: /try/
+permalink: /cantletotherstrythis/
 author_profile: true
 redirect_from:
   - /trying/

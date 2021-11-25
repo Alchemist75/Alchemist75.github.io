@@ -87,7 +87,7 @@ author:
   location         : "Pittsburgh, PA"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=06vSxVYAAAAJ&hl=en"
   email            : "zhenfan@andrew.cmu.edu"
   researchgate     :  
   uri              :
@@ -121,8 +121,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
   - files
+  - pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -147,6 +147,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+
 keep_files:
   - .git
   - .svn
@@ -236,14 +237,12 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
